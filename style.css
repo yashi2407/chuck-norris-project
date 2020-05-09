@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+    font-family: sans-serif;
+    
+    line-height: 1.6;
+    color: #333;
+    height: 100%;
+}
+.container{
+    
+    margin-top: 5rem;
+    padding:2rem;
+  
+}
+
+.get-jokes{
+    background: rgba(211, 155, 83, 0.822);
+    color: black;
+    border: black solid 1px;
+}
+ul{
+    
+    background: url('https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60')no-repeat center center/cover;
+    padding:10rem;
+}
+ul li{
+    color:white;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
